@@ -137,6 +137,7 @@ a{
 
 
 #poll{
+	display: block !important;
 	background:rgba(174, 231, 179, 0.5);
 	background-size:cover;
 	background-attachment: fixed;
